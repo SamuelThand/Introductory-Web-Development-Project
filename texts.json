@@ -1,0 +1,59 @@
+{
+  "texts": [
+    {
+      "title": "Katherine",
+      "author": "Abraham Lincoln",
+      "language": "eng",
+      "content": "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have. I must stand with anybody that stands right, and stand with him while he is right, and part with him when he goes wrong."
+    },
+
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "language": "eng",
+      "content": "May the gods grant you all things which your heart desires, and may they give you a husband and a home and gracious concord, for there is nothing greater and better than this - when a husband and wife keep a household in oneness of mind, a great woe to their enemies and joy to their friends, and win high renown."
+    },
+
+    {
+      "title": "Hard Rock Hallelujah",
+      "author": "Lordi",
+      "language": "eng",
+      "content": "Hard rock hallelujah Hard rock hallelujah! Hard rock hallelujah Hard rock hallelujah! The saints are crippled on this sinner's night Lost are the lambs with no guiding light The walls come down like thunder, the rock's about to roll It's the arockalypse, now bare your soul All we need is lightning with power and might Striking down the prophets of false As the moon is rising, give us the sign Now let us rise up in awe Rock 'n' roll angels, bring thine hard rock hallelujah Demons and angels all in one have arrived Rock 'n' roll angels, bring thine hard rock hallelujah In God's creation's supernatural high The true believers, thou shalt be saved Brothers and sisters, keep strong in the faith On the day of rockening, it's who dares, wins You will see the jokers soon'll be the new kings All we need is lightning with power and might Striking down the prophets of false As the moon is rising, give us the sign Now let us rise up in awe Rock 'n' roll angels, bring thine hard rock hallelujah Demons and angels all in one have arrived Rock 'n' roll angels, bring thine hard rock hallelujah In God's creation's supernatural high Wings on my back, I got horns on my head My fangs are sharp and my eyes are red Not quite an angel or the one that fell Now choose to join us or go straight to hell Hard rock hallelujah Hard rock hallelujah!Hard rock hallelujah Hard rock, yeah! Rock 'n' roll angels, bring thine hard rock hallelujah Demons and angels all in one have arrived Rock 'n' roll angels bring thine hard rock hallelujah In God's creation's supernatural high Rock 'n' roll angels, bring thine hard rock hallelujah Rock 'n' roll angels, bring thine hard rock hallelujah Hard rock hallelujah Hard rock hallelujah!"
+    },
+
+    {
+      "title": "Arise, arise, Riders of Theoden!",
+      "author": "Theoden, King of Rohan",
+      "language": "eng",
+      "content": "Arise, arise, Riders of Théoden! Spear shall be shaken, shield shall be splintered, a sword-day, a red day, ere the sun rises! Ride now, ride now, ride! Ride for ruin and the world's ending! Death! Death! Death! Forth Eorlingas!"
+    },
+
+    {
+      "title": "Tungvrickare",
+      "author": "Ondskan",
+      "language": "swe",
+      "content": "Fem pepparkorn i en kopparpanna. Flyg, fula fluga, flyg och den fula flugan flög. Kvistfritt kvastskaft. Packa pappas kappsäck. Platsbrist på en plastbrits. Sex laxar i en laxask. Sju sjösjuka sjömän på sjunkande skeppet Shanghai sköttes av sju sköna sjuksköterskor. Typiskt västkustskt."
+    },
+
+    {
+      "title": "Doktor Glas",
+      "author": "Hjalmar Söderberg",
+      "language": "swe",
+      "content": "Jag stod vid pastor Gregorius bädd; han låg sjuk. Övre delen av hans kropp var blottad, och jag lyssnade på hans hjärta. Sängen stod i hans arbetsrum; en kammarorgel stod i ett hörn, och någon spelade på den. Ingen koral, knappt en melodi. Bara formlösa fugaartade tongångar fram och tillbaka. En dörr stod öppen; det oroade mig, men jag kunde inte komma mig för att få den stängd."
+    },
+
+    {
+      "title": "Kungens intervju",
+      "author": "Sveriges Konung",
+      "language": "swe",
+      "content": "Näe... Jag tror faktiskt inte det."
+    },
+
+    {
+      "title": "Jämtlandssången",
+      "author": "Wilhelm Peterson-Berger",
+      "language": "swe",
+      "content": "Så tåga vi tillsamman bort mellan Jämtlands gröna ängar bort mellan nyland som prunka fulla av bröllopsblomsters prakt. Så skåda vi med gamman hän ner mot berg i blåa fjärran hän över sjöar, strömmar, skogar jämt kring bygder på vakt. Fagert är landet som blev vår lott och arvedel så firom dess fägring nu med sång och stråkars spel. Tändom ånyo det hopp som våra fäder närt! För slit och mödor av fröjd och sol ett mått oss beskärt."
+    }
+  ]
+}

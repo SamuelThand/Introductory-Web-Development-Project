@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<!--
+Samuel Thand
+sath2102
+sath2102@student.miun.se
+-->
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Typathon Speedtyping</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="icon" href="img/favicon.ico" />
+    <script src="js/main.js"></script>
+  </head>
+  <body>
+    <header>
+      <img src="img/logo.png" alt="Typathon Logo" id="typathon-logo" />
+    </header>
+    <main>
+      <section class="text-list-container">
+        <h2>Textlist</h2>
+        <label for="text-list">Select text</label>
+        <select id="text-list"></select>
+      </section>
+      <section class="options">
+        <h2>Options</h2>
+        <label for="ignore-casing">Ignore casing</label>
+        <input type="checkbox" id="ignore-casing" />
+        <p>Select language</p>
+        <div id="language-radioboxes">
+          <label for="english">English</label>
+          <input type="radio" name="language" value="eng" id="english" />
+          <label for="swedish">Swedish</label>
+          <input type="radio" name="language" value="swe" id="swedish" />
+        </div>
+      </section>
+      <section class="text-window">
+        <h2>Textwindow</h2>
+        <h1 id="displayed-title">.</h1>
+        <p id="displayed-author"></p>
+        <p id="displayed-text"></p>
+      </section>
+      <section class="input-and-controls">
+        <h2>Input and controls</h2>
+        <input type="text" id="input-field" autocomplete="off" />
+        <img
+          alt="Start and stop button"
+          src="./img/play-circle.jpg"
+          id="start-stop"
+        />
+      </section>
+      <section class="graph-container">
+        <h2>Graph container</h2>
+        <canvas id="stats-graph"></canvas>
+        <p>Words Per Minute (Gross)</p>
+      </section>
+      <section class="stats">
+        <h2>Stats</h2>
+        <p id="gross-wpm">Gross WPM:</p>
+        <p id="accuracy">Accuracy:</p>
+        <p id="net-wpm">Net WPM:</p>
+        <p id="errors">Errors:</p>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2021 Samuel Thand</p>
+      <a href="mailto:sath2102@student.miun.se">Email me!</a>
+    </footer>
+  </body>
+</html>
